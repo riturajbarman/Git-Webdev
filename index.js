@@ -22,4 +22,4 @@ multipl(1, 2)
 multipl(2, 3)
 multipl(3, 4)
 multipl(4, 5)
-
+multipl(5, 6)
